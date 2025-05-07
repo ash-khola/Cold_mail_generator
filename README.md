@@ -15,7 +15,7 @@
 
 ## 🧩 Architecture Diagram
 
-![Architecture Diagram](C:\Users\HP\OneDrive\Desktop/architecture.png)
+![image](https://github.com/user-attachments/assets/a229b8bb-9db1-411c-b4e6-a8ee4465e12d)
 
 
 ## 🛠️ Set-up
